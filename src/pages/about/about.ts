@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
+import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
 
 @Component({
   selector: 'page-about',
